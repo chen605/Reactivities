@@ -12,3 +12,4 @@ C:\Reactivities\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInput
 C:\Reactivities\Persistence\obj\Debug\net5.0\Persistence.dll
 C:\Reactivities\Persistence\obj\Debug\net5.0\ref\Persistence.dll
 C:\Reactivities\Persistence\obj\Debug\net5.0\Persistence.pdb
+C:\Reactivities\Persistence\obj\Debug\net5.0\Persistence.csproj.CopyComplete
