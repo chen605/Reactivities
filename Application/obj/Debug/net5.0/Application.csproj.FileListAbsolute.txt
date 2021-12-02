@@ -14,3 +14,4 @@ C:\Reactivities\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInput
 C:\Reactivities\Application\obj\Debug\net5.0\Application.dll
 C:\Reactivities\Application\obj\Debug\net5.0\ref\Application.dll
 C:\Reactivities\Application\obj\Debug\net5.0\Application.pdb
+C:\Reactivities\Application\obj\Debug\net5.0\Application.csproj.CopyComplete
