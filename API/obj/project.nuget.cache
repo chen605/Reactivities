@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "vRR5HeLXfNZkTNKRsF+JuHIhZ6ao43P0/fMV5YTwVQaTo/r88+/xFlBDuehLPXPaJJkElUu+YeHdmqQO4Q5SKQ==",
+  "dgSpecHash": "RMTUX4S7DHqUGxLjcqygqp+UFphKCEP1A5qBwbneBwInk0YLrnJR3l4pIKOzY75NDQCqNGnazZy8HHMmTKpkcg==",
   "success": true,
   "projectFilePath": "C:\\Reactivities\\API\\API.csproj",
   "expectedPackageFiles": [
@@ -38,7 +38,8 @@
     "C:\\Users\\chow_\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
     "C:\\Users\\chow_\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\chow_\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",
-    "C:\\Users\\chow_\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+    "C:\\Users\\chow_\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\chow_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
   ],
   "logs": []
 }
